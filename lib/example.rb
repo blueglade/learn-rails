@@ -18,7 +18,7 @@ class Example < Object
   def titled_name
     @honorific ||= 'Esteemed'
     titled_name = "#{@honorific} #{@name}"
-  end
+    endex.
   
   def december_birthdays
     born_in_december = [ ]
